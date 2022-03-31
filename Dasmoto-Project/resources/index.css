@@ -15,19 +15,19 @@ strong{
 }
 
 #brushes {
-background-color: mediumspringgreen;
+    background-color: mediumspringgreen;
 }
 
  #frames {
-background-color: lightcoral;
+    background-color: lightcoral;
  }
 
  #paint {
-background-color: skyblue;
+    background-color: skyblue;
  }
 
 .banner-title {
-   background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
     font-size: 100px;
     font-family: Helvetica;
     font-weight: bold;
